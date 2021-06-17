@@ -1,0 +1,12 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Konica Minolta Technical Assessment Implementation by Paul Kim",
+  "main": "app.js",
+  "author": "pkim168",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "ws": "^7.4.6"
+  }
+}
